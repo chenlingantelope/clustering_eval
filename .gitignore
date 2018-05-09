@@ -1,0 +1,5 @@
+*.RData
+*.robj
+exp_5pop_continuous_grid/
+exp_regression5pop_figure4params/
+exp_regression5pop_large/
